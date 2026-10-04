@@ -201,7 +201,7 @@ export default function Hero() {
 
             <img
               ref={carRef}
-              src="/McLaren-720S.png"
+              src="/Car-Scrolling-Animation/McLaren-720S.png"
               alt="McLaren"
               className="car absolute left-0 top-0 z-10 h-50 w-auto max-w-none object-contain"
             />

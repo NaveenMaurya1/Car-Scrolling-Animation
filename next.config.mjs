@@ -2,7 +2,7 @@
 const nextConfig = {
   /* config options here */
   output: "export",
-  basePath: "/CarScrollingAnimation",
+  basePath: "/Car-Scrolling-Animation",
   images: {
     unoptimized: true,
   },
