@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: sans-serif;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  background: #121212;
+}
